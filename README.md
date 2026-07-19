@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jubair2-0/leetcode-solution/tree/master/0001-two-sum) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/jubair2-0/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,12 @@
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/jubair2-0/leetcode-solution/tree/master/0065-valid-number) |
+## Math
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/jubair2-0/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/jubair2-0/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

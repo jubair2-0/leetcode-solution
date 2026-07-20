@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jubair2-0/leetcode-solution/tree/master/0001-two-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jubair2-0/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1470-shuffle-the-array](https://github.com/jubair2-0/leetcode-solution/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |

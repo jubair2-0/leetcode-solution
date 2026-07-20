@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jubair2-0/leetcode-solution/tree/master/0007-reverse-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jubair2-0/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
